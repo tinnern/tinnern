@@ -64,7 +64,7 @@ I like code that runs, maps that load fast and field days that end with working 
     <td width="33%" valign="top">
       <h3 align="center">Morlongo Forecast</h3>
       <p align="center">
-        <a href="https://real-slin-shady.github.io/morlongo-forecast/">
+        <a href="https://tinnern.github.io/morlongo-forecast/">
           <img src="https://img.shields.io/badge/live-demo-8B5CF6?style=for-the-badge&logo=githubpages&logoColor=white" alt="morlongo"/>
         </a>
       </p>
@@ -160,17 +160,17 @@ Urban boundary layer processes. Thermal drone flights at 3 in the morning when t
 ## GitHub stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Real-Slin-Shady&show_icons=true&count_private=true&hide_border=true&title_color=38BDF8&icon_color=10B981&text_color=cbd5e1&bg_color=0f172a" alt="stats"/>
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Real-Slin-Shady&hide_border=true&background=0f172a&stroke=0f172a&ring=38BDF8&fire=F59E0B&currStreakLabel=38BDF8&sideLabels=cbd5e1&currStreakNum=cbd5e1&dates=94a3b8&sideNums=cbd5e1" alt="streak"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=tinnern&show_icons=true&count_private=true&hide_border=true&title_color=38BDF8&icon_color=10B981&text_color=cbd5e1&bg_color=0f172a" alt="stats"/>
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=tinnern&hide_border=true&background=0f172a&stroke=0f172a&ring=38BDF8&fire=F59E0B&currStreakLabel=38BDF8&sideLabels=cbd5e1&currStreakNum=cbd5e1&dates=94a3b8&sideNums=cbd5e1" alt="streak"/>
 </p>
 
 <p align="center">
-  <img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=Real-Slin-Shady&theme=react-dark&bg_color=0f172a&color=38BDF8&line=10B981&point=F59E0B&hide_border=true" alt="activity graph"/>
+  <img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=tinnern&theme=react-dark&bg_color=0f172a&color=38BDF8&line=10B981&point=F59E0B&hide_border=true" alt="activity graph"/>
 </p>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Real-Slin-Shady&layout=compact&hide_border=true&title_color=38BDF8&text_color=cbd5e1&bg_color=0f172a" alt="langs"/>
-  <img width="49%" src="https://github-profile-trophy.vercel.app/?username=Real-Slin-Shady&theme=nord&no-frame=true&column=4&margin-w=10" alt="trophies"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tinnern&layout=compact&hide_border=true&title_color=38BDF8&text_color=cbd5e1&bg_color=0f172a" alt="langs"/>
+  <img width="49%" src="https://github-profile-trophy.vercel.app/?username=tinnern&theme=nord&no-frame=true&column=4&margin-w=10" alt="trophies"/>
 </p>
 
 <br/>
