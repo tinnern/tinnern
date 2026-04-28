@@ -26,7 +26,7 @@
 
 I'm a climate scientist from Bern, finishing an MSc in Climate Sciences at the University of Bern with a focus on urban heat and deep learning. My master thesis builds encoder decoder neural networks that predict near surface air temperature at 20 to 100 metre resolution across more than 800 European cities. In my day job at the Climatology Group I run sensor networks in Bern, Biel and Thun, fly thermal drones through street canyons and build web apps that turn all of that raw data into something people can actually read.
 
-I like code that runs, maps that load fast and field days that end with muddy boots.
+I like code that runs, maps that load fast and field days that end with working sensors.
 
 <br/>
 
