@@ -1,20 +1,20 @@
 <!-- Header banner with animated capsule gradient -->
 <p align="center">
-  <a href="https://github.com/Real-Slin-Shady">
+  <a href="https://github.com/tinnern">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,10,20,30&height=220&section=header&text=Nils%20Willy%20Tinner&fontSize=60&fontAlignY=38&fontColor=ffffff&animation=fadeIn&desc=Climate%20Scientist%20%C2%B7%20Urban%20Heat%20%C2%B7%20Deep%20Learning%20%C2%B7%20Drones&descAlignY=58&descSize=18" alt="header"/>
   </a>
 </p>
 
 <!-- Typing subtitle -->
 <p align="center">
-  <a href="https://github.com/Real-Slin-Shady">
+  <a href="https://github.com/tinnern">
     <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=700&color=38BDF8&center=true&vCenter=true&width=820&lines=S%C3%A4l%C3%BC%2C+I+bi+dr+Nils+vo+B%C3%A4rn+%F0%9F%87%A8%F0%9F%87%AD;I+measure+cities+with+sensors%2C+drones+and+neural+networks;Urban+heat+islands%2C+boundary+layers%2C+the+whole+lot;Building+tools+that+make+climate+data+actually+useful" alt="typing"/>
   </a>
 </p>
 
 <!-- Profile stats row -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Real-Slin-Shady&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=tinnern&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
   <img src="https://img.shields.io/badge/Based%20in-Bern%2C%20CH-red?style=flat&logo=googlemaps&logoColor=white" alt="location"/>
   <img src="https://img.shields.io/badge/MSc%20Climate%20Sciences-University%20of%20Bern-0057A7?style=flat" alt="uni"/>
   <img src="https://img.shields.io/badge/Drone%20Pilot-EU%20A1%2FA2%2FA3-orange?style=flat&logo=dji&logoColor=white" alt="drones"/>
