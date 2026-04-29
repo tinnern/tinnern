@@ -20,7 +20,6 @@
   <img src="https://img.shields.io/badge/Group-Climatology%20%C2%B7%20Unibe-19387E?style=for-the-badge&labelColor=03051E" alt="group"/>
 </p>
 
-<p align="center"><em>"I like code that runs, maps that load fast and field days that end with working sensors."</em></p>
 
 <!-- ─── thin gradient divider ─────────────────────────────────── -->
 <p align="center">
