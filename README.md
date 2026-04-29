@@ -1,7 +1,7 @@
 <!-- ─── header wave · lipari gradient ─────────────────────────── -->
 <p align="center">
   <a href="https://github.com/tinnern">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:03051E,30:19387E,60:A63848,100:DC7F60&height=240&section=header&text=Nils%20Willy%20Tinner&fontSize=58&fontAlignY=38&fontColor=E8D8C0&animation=fadeIn&desc=Climate%20scientist%20%C2%B7%20urban%20heat%20%C2%B7%20deep%20learning%20%C2%B7%20drones&descAlignY=58&descSize=18&descColor=E8D8C0" alt="header"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:03051E,30:19387E,60:A63848,100:DC7F60&height=240&section=header&text=Nils%20Tinner&fontSize=58&fontAlignY=38&fontColor=E8D8C0&animation=fadeIn&desc=Climate%20scientist%20%C2%B7%20urban%20heat%20%C2%B7%20deep%20learning%20%C2%B7%20drones&descAlignY=58&descSize=18&descColor=E8D8C0" alt="header"/>
   </a>
 </p>
 
