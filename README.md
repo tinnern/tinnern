@@ -8,7 +8,7 @@
 <!-- ─── typing subtitle · lipari salmon ───────────────────────── -->
 <p align="center">
   <a href="https://github.com/tinnern">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=800&color=DC7F60&center=true&vCenter=true&width=860&lines=S%C3%A4l%C3%BC%2C+I+bi+dr+Nils+vo+B%C3%A4rn+%F0%9F%87%A8%F0%9F%87%AD;I+measure+cities+with+sensors%2C+drones+and+neural+networks;Urban+heat+islands%2C+boundary+layers%2C+the+whole+lot;Building+tools+that+make+climate+data+actually+useful" alt="typing"/>
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=800&color=DC7F60&center=true&vCenter=true&width=860&lines=S%C3%A4l%C3%BC%2C+I+bi+dr+Nils+vo+B%C3%A4rn+%F0%9F%87%A8%F0%9F%87%AD;I+measure+cities+with+sensors%2C+drones+and+neural+networks;Urban+heat+islands%2C+boundary+layers%2C+the+whole+atmosphere;Building+tools+that+make+climate+data+actually+useful" alt="typing"/>
   </a>
 </p>
 
