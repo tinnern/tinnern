@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="190" viewBox="0 0 960 190" role="img" aria-labelledby="title desc">
+  <title id="title">Nils Tinner</title>
+  <desc id="desc">Bern, Switzerland. A turquoise line inspired by the bends of the Aare.</desc>
+  <rect width="960" height="190" fill="#f4f2ea"/>
+  <path d="M610 210 C604 165 538 178 544 136 C550 94 666 144 682 105 C698 66 603 78 620 36 C633 4 702 25 737 7 C770 -10 767 -30 785 -40" fill="none" stroke="#218a7d" stroke-width="5" stroke-linecap="round"/>
+  <circle cx="626" cy="108" r="5" fill="#bd5238"/>
+  <g fill="#253d38" font-family="Helvetica, Arial, sans-serif">
+    <text x="42" y="89" font-size="42" font-weight="600" letter-spacing="-1">Nils Tinner</text>
+    <text x="44" y="123" font-size="13" letter-spacing="2">BERN, SWITZERLAND</text>
+    <text x="791" y="158" font-size="12" letter-spacing="2">46.95° N</text>
+  </g>
+</svg>
